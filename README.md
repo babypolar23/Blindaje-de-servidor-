@@ -1,4 +1,4 @@
-# Blindaje-de-servidor-
+# CANDADO-de-servidor-
 Con este script se obtiene:
 Tenga su línea shebang obligatoria al principio.
 Se busca todos los archivos SUID en el sistema, mandando los errores al directorio /dev/null por medio de Stdinout
